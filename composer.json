@@ -1,0 +1,13 @@
+{
+    "name": "jason/jason",
+    "description": "jason",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jason.Chen",
+            "email": "20511924@qq.com"
+        }
+    ],
+    "require": {}
+}
