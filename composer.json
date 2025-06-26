@@ -1,6 +1,6 @@
 {
     "name": "jason/jason",
-    "description": "jason",
+    "description": "just do it",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -9,5 +9,7 @@
             "email": "20511924@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.3"
+    }
 }
